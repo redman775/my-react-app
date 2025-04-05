@@ -12,6 +12,7 @@ function App() {
     return (
         <div style={{ textAlign: "center", marginTop: "50px" }}>
             <h1>Stay Positive and Keep Moving Forward!</h1>
+            <h1>You are who you think you are.</h1>
             <input
                 type="number"
                 placeholder="Type a number"
